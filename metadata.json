@@ -1,0 +1,5 @@
+{
+  "name": "ScreenStock Pro (with Gemini)",
+  "description": "An inventory and sales management application for mobile screen repair businesses, enhanced with Gemini AI for data analysis and insights. Manages stock, tracks sales, and provides intelligent reports.",
+  "requestFramePermissions": []
+}
